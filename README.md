@@ -4,8 +4,9 @@
 
 <HR>
 ## 1.<br> Membuat Database : <br>
-  ![real1](https://user-images.githubusercontent.com/81587959/120222751-a970dc80-c26a-11eb-9dde-d84722553a26.PNG)
-  ![real2](https://user-images.githubusercontent.com/81587959/120222764-af66bd80-c26a-11eb-949a-eaccb461d7dd.PNG)
+![real1](https://user-images.githubusercontent.com/81587959/120225972-73365b80-c270-11eb-9277-2376c26279a4.PNG)
+![real2](https://user-images.githubusercontent.com/81587959/120225983-792c3c80-c270-11eb-8477-b01c93fc00d5.PNG)
+
 <HR>
 ## 2.<br> Membuat File Config.php <br>
    #Codingan:
