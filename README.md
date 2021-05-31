@@ -21,39 +21,40 @@
   
   ## 3. <br> Membuat File Index.php <br>
      # Codingan :
-     ![INDEX COD](https://user-images.githubusercontent.com/81587959/120223351-aa563e00-c26b-11eb-8050-4ed0b1046ed8.PNG)
-   
+    ![INDEX COD](https://user-images.githubusercontent.com/81587959/120224439-ac210100-c26d-11eb-9301-6afce4b7933f.PNG)
+
      # Tampilan Web :
-     ![INDEX WEB](https://user-images.githubusercontent.com/81587959/120223414-c1952b80-c26b-11eb-8cf5-40bf4294564b.PNG)
+    ![INDEX WEB](https://user-images.githubusercontent.com/81587959/120224465-b7742c80-c26d-11eb-999d-a272f39dd550.PNG)
 
 <HR>
     
     ## 4. <br> Membuat File Add.php <br>
      # Codingan:
-     ![add cod1](https://user-images.githubusercontent.com/81587959/120223596-0620c700-c26c-11eb-8d3b-17ab959e9582.PNG)
-     ![add cod2](https://user-images.githubusercontent.com/81587959/120223608-0c16a800-c26c-11eb-8f99-bf7cfdd24652.PNG)
-    
+     ![add cod1](https://user-images.githubusercontent.com/81587959/120224488-c35fee80-c26d-11eb-9517-6dd9ad2cae02.PNG)
+     ![add cod2](https://user-images.githubusercontent.com/81587959/120224504-ca86fc80-c26d-11eb-990c-2d330ab1a414.PNG)
+
+
      # Tampilan Web :
-     ![add web](https://user-images.githubusercontent.com/81587959/120223642-1afd5a80-c26c-11eb-91eb-6402f349107f.PNG)
+     ![add web](https://user-images.githubusercontent.com/81587959/120224518-d1157400-c26d-11eb-9296-44fe92e36a70.PNG)
 
 <HR>
      
      ## 5. <br> Membuat File Edit <br>
      # Codingan :
-     ![edit cod1](https://user-images.githubusercontent.com/81587959/120223733-3f593700-c26c-11eb-81fe-5608ea9dd323.PNG)
-     ![edit cod2](https://user-images.githubusercontent.com/81587959/120223746-44b68180-c26c-11eb-9830-1f1889a64983.PNG)
+    ![edit cod1](https://user-images.githubusercontent.com/81587959/120224539-da9edc00-c26d-11eb-9036-63ba92785370.PNG)
+    ![edit cod2](https://user-images.githubusercontent.com/81587959/120224557-e1c5ea00-c26d-11eb-9bdb-e3816b350c80.PNG)
 
      # Tampilan Web :
-     ![edit web](https://user-images.githubusercontent.com/81587959/120223774-513ada00-c26c-11eb-8b85-a347ee4166e5.PNG)
+     ![edit web](https://user-images.githubusercontent.com/81587959/120224567-e8546180-c26d-11eb-90da-6b98bfa9082f.PNG)
 
 <HR>
       
       ## 6. <br> Membuat File Delete <br>
       # Codingan :
-      ![delet cod](https://user-images.githubusercontent.com/81587959/120223862-7891a700-c26c-11eb-8461-6e4f39c94a1a.PNG)
+      ![delet cod](https://user-images.githubusercontent.com/81587959/120224591-f0ac9c80-c26d-11eb-86df-71aa283507ad.PNG)
 
       # Tampilan Web :
-      ![delet web](https://user-images.githubusercontent.com/81587959/120223907-89dab380-c26c-11eb-8e2e-7a5d61e289c2.PNG)
+      ![delet web](https://user-images.githubusercontent.com/81587959/120224608-f6a27d80-c26d-11eb-9083-1fa239eba093.PNG)
 
 <HR>
        
